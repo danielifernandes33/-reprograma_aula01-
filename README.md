@@ -96,6 +96,8 @@ Os dados analisados incluem:
 - [Acesse o Dashboard no Looker Studio](https://lookerstudio.google.com/reporting/f51baf90-f3f9-4a8f-bdc6-7c74cf686945)
 - [Veja a análise de dados no Google Colab](https://colab.research.google.com/drive/1hYLMU2ylu_5ng6Etgwkz2WPvlg142uK3?usp=sharing)
 - [Veja a regressão linear no Google Colab](https://colab.research.google.com/drive/1cO8GENeqQacfkcPPbPmCkQKnFpRkQ22G?usp=sharing)
+- [Certificado](https://drive.google.com/file/d/15z_SsQlwx6XiBbOAbE4KUJJGFmMF1hoJ/view?usp=sharing)
+
 
 🌐 **Contato:**
 - [Email](danielifernandes33@gmail.com)
