@@ -100,3 +100,7 @@ Os dados analisados incluem:
 🌐 **Contato:**
 - [Email](danielifernandes33@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/danielifernandes/)
+
+  <p align="center">
+Desenvolvido por Danieli Fernandes :purple_heart:  
+</p>
