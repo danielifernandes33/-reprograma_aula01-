@@ -21,7 +21,7 @@ Este repositório reúne o projeto desenvolvido durante o curso Meus Primeiros P
 
 ## Visão Geral do Projeto
 
-O objetivo deste projeto foi realizar uma análise descritiva e estatística dos dados contidos em duas planilhas (localizadas na pasta Data). O processo envolveu:
+O objetivo deste projeto foi realizar uma análise descritiva e estatística dos dados apresentados pela Comunidade de Dados Data Hachers do ano de 2022. O processo envolveu:
 
 - Tratamento de dados faltantes
 - Detecção e correção de outliers
@@ -81,9 +81,9 @@ Os dados analisados incluem:
 
 ## Principais Resultados
 
-### Gênero x Etnia
-- A maioria dos respondentes foi de pessoas **não brancas** (1.527 indivíduos).
-- A proporção entre homens e mulheres variou conforme a etnia e localização.
+### Gênero e Etnia
+- A pesquisa contou com a participação de 4.271 pessoas, sendo 74,8% do gênero masculino, 24,7% do gênero feminino e 0,5% que preferiram não declarar.
+- A maioria dos respondentes foi de pessoas **brancas** (2744 indivíduos).
 
 ### Distribuição Geográfica
 - A maior parte dos respondentes vive fora de São Paulo (2.413 indivíduos).
@@ -93,9 +93,10 @@ Os dados analisados incluem:
 
 ## Dashboard e Notebook
 
-- [Acesse o Dashboard no Looker Studio](https://lookerstudio.google.com/s/t87P4kgW6h8)
-- [Veja o código completo no Google Colab](https://colab.research.google.com/github/laayrd/Projeto_PrograMaria/blob/main/Analise_Dados.ipynb)
+- [Acesse o Dashboard no Looker Studio](https://lookerstudio.google.com/reporting/f51baf90-f3f9-4a8f-bdc6-7c74cf686945)
+- [Veja a análise de dados no Google Colab](https://colab.research.google.com/drive/1hYLMU2ylu_5ng6Etgwkz2WPvlg142uK3?usp=sharing)
+- [Veja a regressão linear no Google Colab](https://colab.research.google.com/drive/1cO8GENeqQacfkcPPbPmCkQKnFpRkQ22G?usp=sharing)
 
 🌐 **Contato:**
-- [Email](layssa21.alves@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/layssa-rodrigues/)
+- [Email](danielifernandes33@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/danielifernandes/)
